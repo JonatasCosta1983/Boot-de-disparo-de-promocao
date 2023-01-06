@@ -1,0 +1,2 @@
+
+nomes = ['Débora','Tiffany','Magda']
